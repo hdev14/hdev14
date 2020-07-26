@@ -1,1 +1,1 @@
-![coding](./giphy.gif)
+![coding](https://github.com/hdev14/hdev14/blob/master/coding.gif)
