@@ -1,1 +1,1 @@
-<img src="./giphy.gif" />
+<img src="./giphy.gif" width="100%"/>
