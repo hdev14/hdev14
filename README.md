@@ -1,1 +1,3 @@
-<img src="https://github.com/hdev14/hdev14/blob/master/coding.gif" width="100%" >
+<p align="center">
+  <img src="https://github.com/hdev14/hdev14/blob/master/coding.gif" height="300" >
+</p>
