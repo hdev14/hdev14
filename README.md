@@ -1,1 +1,1 @@
-![coding](https://github.com/hdev14/hdev14/blob/master/coding.gif)
+<img src="https://github.com/hdev14/hdev14/blob/master/coding.gif" width="100%" >
