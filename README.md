@@ -1,1 +1,3 @@
-<img src="./giphy.gif" width="100%"/>
+<p align="center">
+  <img src="./giphy.gif" width="500"/>
+</p>
