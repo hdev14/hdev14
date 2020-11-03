@@ -4,7 +4,7 @@ Olá, meu nome é **Hermerson** sou fascinado por programação desde 2016. Desd
 
 ## Linguagens/Frameworks e Tecnologias
 
-> Algumas linguagens/frameworks e tecnologias com que eu programo.
+> Algumas linguagens/frameworks e tecnologias com que eu desenvolvo.
 
 <img width="65" align="left" style="margin: 5px" src="./assets/js.svg" title="JavaScript">
 <img width="65" align="left" style="margin: 5px" src="./assets/typescript.jpeg" title="TypeScript">
