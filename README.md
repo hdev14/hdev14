@@ -22,7 +22,7 @@ Olá, meu nome é Hermerson sou fascinado por programação desde 2016. Desde o 
 
 ## Aprendendo
 
-> O que eu ando aprendendo nesse momento.
+> O que eu estou aprendendo nesse momento.
 
 <img width="65" src="./assets/graphql.svg" alt="GraphQL">
 <img width="65" src="./assets/vue.svg" alt="GraphQL">
