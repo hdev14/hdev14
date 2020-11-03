@@ -1,10 +1,10 @@
 # Sobre
 
-Olá, meu nome é **Hermerson** sou fascinado por programação desde 2016. Desde o início eu sempre busquei aprender um pouco de cada coisa e por isso me considero um desenvolvedor generalista. Hoje os projetos que eu desenvolvo são mais voltados para a Web e a maioria deles estão aqui no Github.
+Olá, meu nome é **Hermerson**! Sou _fascinado_ por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um _desenvolvedor generalista_, porém meus projetos estão mais voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
 
 ## Linguagens/Frameworks e Tecnologias
 
-> Algumas linguagens/frameworks e tecnologias com que eu desenvolvo.
+> Algumas linguagens/frameworks e tecnologias que eu uso para desenvolver meus projetos.
 
 <img width="65" align="left" style="margin: 5px" src="./assets/js.svg" title="JavaScript">
 <img width="65" align="left" style="margin: 5px" src="./assets/typescript.jpeg" title="TypeScript">
