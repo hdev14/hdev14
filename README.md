@@ -25,4 +25,6 @@ Olá, meu nome é **Hermerson** sou fascinado por programação desde 2016. Desd
 > O que eu estou aprendendo nesse momento.
 
 <img width="65" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
+<img width="65" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
+<img width="65" align="left" style="margin: 5px" src="./assets/firebase.svg" title="Firebase">
 <img width="65" src="./assets/vue.svg" style="margin: 5px" title="GraphQL">
