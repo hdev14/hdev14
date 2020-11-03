@@ -18,7 +18,7 @@ Olá, meu nome é Hermerson sou fascinado por programação desde 2016. Desde o 
 <img width="65" align="left" style="margin: 5px" src="./assets/css.svg" alt="CSS">
 <img width="65" align="left" style="margin: 5px" src="./assets/mysql.svg" alt="MySQL">
 <img width="65" align="left" style="margin: 5px" src="./assets/postgres.png" alt="Postgres">
-<img width="65" src="./assets/redis.svg" alt="Redis">
+<img width="65" src="./assets/redis.svg" style="margin: 5px" alt="Redis">
 
 ## Aprendendo
 
