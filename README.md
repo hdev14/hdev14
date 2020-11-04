@@ -18,8 +18,8 @@ Olá, meu nome é **Hermerson**! Sou _fascinado_ por programação, comecei minh
 <img width="40" align="left" style="margin: 5px" src="./assets/css.svg" title="CSS">
 <img width="40" align="left" style="margin: 5px" src="./assets/mysql.svg" title="MySQL">
 <img width="40" align="left" style="margin: 5px" src="./assets/postgres.png" title="Postgres">
-<img width="120" align="left" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
-<img width="40" src="./assets/redis.svg" style="margin: 5px" title="Redis">
+<img width="40" align="left" src="./assets/redis.svg" style="margin: 5px" title="Redis">
+<img width="120" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
 
 ## Aprendendo
 
