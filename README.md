@@ -1,6 +1,7 @@
 # Sobre
 
-Olá, meu nome é **Hermerson**! Sou _fascinado_ por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um _desenvolvedor generalista_, porém meus projetos estão mais voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
+Sou fascinado por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um _
+desenvolvedor _generalista_, porém meus projetos estão mais voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
 
 ## Linguagens/Frameworks e Tecnologias
 
