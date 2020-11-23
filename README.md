@@ -12,6 +12,7 @@ Olá, meu nome é **Hermerson**! Sou _fascinado_ por programação, comecei minh
 <img width="60" align="left" style="margin: 5px" src="./assets/nodejs.svg" title="NodeJS">
 <img width="40" align="left" style="margin: 5px" src="./assets/php.svg" title="PHP">
 <img width="40" align="left" style="margin: 5px" src="./assets/laravel.svg" title="Laravel">
+<img width="40" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
 <img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
 <img width="40" align="left" style="margin: 5px" src="./assets/sass.svg" title="SASS">
 <img width="40" align="left" style="margin: 5px" src="./assets/html.svg" title="HTML">
@@ -23,9 +24,8 @@ Olá, meu nome é **Hermerson**! Sou _fascinado_ por programação, comecei minh
 
 ## Aprendendo
 
-> O que eu estou aprendendo nesse momento.
+> O que eu estou aprendendo atualmente.
 
-<img width="40" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
 <img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
 <img width="40" align="left" style="margin: 5px" src="./assets/firebase.svg" title="Firebase">
 <img width="40" src="./assets/vue.svg" style="margin: 5px" title="VueJS">
