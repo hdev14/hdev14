@@ -23,7 +23,7 @@ desenvolvedor *generalista*, porém meus projetos estão mais voltados para a We
 <img width="40" align="left" src="./assets/redis.svg" style="margin: 5px" title="Redis">
 <img width="120" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
 
-## Aprendendo
+### Aprendendo
 
 > O que eu estou aprendendo atualmente.
 
