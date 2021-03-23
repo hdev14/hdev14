@@ -29,4 +29,4 @@ desenvolvedor *generalista*, porém meus projetos estão mais voltados para a We
 
 <img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
 <img width="40" align="left" style="margin: 5px" src="./assets/firebase.svg" title="Firebase">
-<img width="40" src="./assets/vue.svg" style="margin: 5px" title="VueJS">
+<img width="40" src="./assets/nextjs.png" style="margin: 5px" title="Next.js">
