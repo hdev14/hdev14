@@ -23,7 +23,7 @@ desenvolvedor *generalista*, porém meus projetos estão mais voltados para a We
 <img width="40" align="left" style="margin: 5px" src="./assets/postgres.png" title="Postgres">
 <img width="40" align="left" style="margin: 5px" src="./assets/redis.svg" title="Redis">
 <img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
-<img width="120" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
+<img width="120" align="center" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
 
 ### Aprendendo
 
