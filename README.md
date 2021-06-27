@@ -1,12 +1,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/pireseduardo/)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hdev14?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
   
 ### Sobre
 
 Sou fascinado por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um
 desenvolvedor *generalista*, porém meus projetos estão mais voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
-  
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hdev14?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+
 ### Linguagens/Frameworks e Tecnologias
 
 > Algumas linguagens/frameworks e tecnologias que eu uso para desenvolver meus projetos.
