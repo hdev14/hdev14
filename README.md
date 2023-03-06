@@ -1,35 +1,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermerson-araujo/)](https://www.linkedin.com/in/hermerson-araujo/)
-  
-### Sobre
 
-Sou fascinado por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um
-desenvolvedor *generalista*, e meus projetos estão voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
+Hello, welcome to my profile. My name is **Hermerson** and i'm a *full stack software engineer*. I do code since 2016 and I love make great software solutions. I'm a full stack, because I'm a generalist person, so I just like to develop things and solve problems.
 
-### Linguagens/Frameworks e Tecnologias
+For me programming is the most **creativity** and **logic** area, and because of that it is possible to make anything you want. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
 
-> Algumas linguagens/frameworks e tecnologias que eu uso para desenvolver meus projetos.
+I realy do all my projects with **TDD** (even for the professional ones). For some people it is hard to do this methodology, but I think is the most correct approach when you are developing tests, of course in the end it is just important to have a great coverage of tests anyway.
 
-<img width="40" align="left" style="margin: 5px" src="./assets/js.svg" title="JavaScript">
-<img width="40" align="left" style="margin: 5px" src="./assets/typescript.jpeg" title="TypeScript">
-<img width="40" align="left" style="margin: 5px" src="./assets/react.svg" title="React & React Native">
-<img width="60" align="left" style="margin: 5px" src="./assets/nodejs.svg" title="NodeJS">
-<img width="40" align="left" style="margin: 5px" src="./assets/serverless.png" title="Serverless Framework">
-<img width="40" align="left" style="margin: 5px" src="./assets/php.svg" title="PHP">
-<img width="40" align="left" style="margin: 5px" src="./assets/laravel.svg" title="Laravel">
-<img width="40" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
-<img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
-<img width="40" align="left" style="margin: 5px" src="./assets/sass.svg" title="SASS">
-<img width="40" align="left" style="margin: 5px" src="./assets/html.svg" title="HTML">
-<img width="40" align="left" style="margin: 5px" src="./assets/css.svg" title="CSS">
-<img width="40" align="left" style="margin: 5px" src="./assets/mysql.svg" title="MySQL">
-<img width="40" align="left" style="margin: 5px" src="./assets/postgres.png" title="Postgres">
-<img width="40" align="left" style="margin: 5px" src="./assets/redis.svg" title="Redis">
-<img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
-<img width="120" align="center" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
+My main programming language right now is *Typescript* (it is great to have the power of Javacript with a little bit of types). But I realy like the agnostic mindset of thinking that all theses stuffs are tools. I have programmed with PHP, C#, C, Java and Python (and I'm learning Go and C++). So for me, programming languages, frameworks, libs are the same, tooling!
 
-### Aprendendo
+Right now, I'm seeking to improve all my knowledge about software architecture and design of code. I also have a goal this year, a hobby goal actually, to start learning about Game Development (but it is hard to have time).
 
-> O que eu estou aprendendo atualmente.
-
-<img width="40" align="left" style="margin: 5px" src="./assets/firebase.svg" title="Firebase">
-<img width="50" src="./assets/nextjs.png" style="margin: 5px" title="Next.js">
+All my personal projects are here on the github, so feel free to look around :).
