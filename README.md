@@ -1,5 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermerson-araujo/)](https://www.linkedin.com/in/hermerson-araujo/)
-
 Hello, welcome to my profile. My name is **Hermerson** and I'm a *full stack software engineer*. I do code since 2016 and I love make great software solutions. I'm a full stack, because I'm a generalist person, so I just like to develop things and solve problems.
 
 For me programming is the most **creativity** and **logic** area, and because of that it's possible to make anything you want. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
