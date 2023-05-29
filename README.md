@@ -4,7 +4,7 @@ I'm a *full stack software engineer*. I do code since 2016 and I love make great
 
 For me programming is the most **creativity** and **logic** area, and because of that it's possible to make anything you want. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
 
-I realy do all my projects with **TDD** (even for the professional ones). For some people it's hard to follow this methodology, but I think is the most correct approach when you are developing tests, of course in the end it's important to have a great coverage of tests anyway.
+I really do all my projects with **TDD** (even for the professional ones). For some people it's hard to follow this methodology, but I think is the most correct approach when you are developing tests, of course in the end it's important to have a great coverage of tests anyway.
 
 My main programming language right now is *Typescript* (it's great to have a little bit of types in Javascript). But I really like the agnostic mindset of thinking that all these stuff are tools. I have programmed with PHP, C#, C, Java and Python (and I'm willing to learn more). So for me, programming languages, frameworks, libs are the same, tooling!
 
