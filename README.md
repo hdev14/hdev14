@@ -14,7 +14,7 @@ All my personal projects are here on the github, so feel free to look around :).
 
 ---
 
-**Last post in my medium (portuguese only):**
+**Last post on my medium (portuguese only):**
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0">
  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0" width="500">
