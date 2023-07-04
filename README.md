@@ -16,7 +16,7 @@ All my personal projects are here on the github, so feel free to look around :).
 
 **Last post in my medium (Portuguese only):**
 
-<a target="_blank" href="https://hdev.medium.com/unit-of-work-com-typescript-e-knex-js-1438b56ac298">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0">
  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0" width="400">
 </a>
 
