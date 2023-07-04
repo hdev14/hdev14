@@ -17,11 +17,11 @@ All my personal projects are here on the github, so feel free to look around :).
 **Last posts in my medium (Portuguese only):**
 
 <a target="_blank" href="https://hdev.medium.com/unit-of-work-com-typescript-e-knex-js-1438b56ac298">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0" width="500">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0" width="300">
 </a>
 
 <a target="_blank" href="https://hdev.medium.com/autenticação-e-autorização-com-diretivas-do-graphql-66a7307c1eda">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/1" width="500">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/1" width="300">
 </a>
 
 
