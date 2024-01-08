@@ -16,9 +16,7 @@ All my personal projects are here on the github, so feel free to look around :).
 
 **Last post on my Medium (portuguese only):**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@hdev/0" width="500">
-</a>
+[Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
 
 
 
