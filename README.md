@@ -1,4 +1,4 @@
-Hello, welcome to my profile! 
+**Hello, welcome to my profile!** 
 
 I'm a *full stack software engineer*. I do code since 2016 and I love make great software solutions. I'm a full stack, because I'm a generalist person, so I like to develop things, solve problems and learn everything I want.
 
@@ -10,13 +10,15 @@ My main programming language right now is *Typescript* (it's great to have a lit
 
 Right now, I'm seeking to improve all my knowledge about software architecture and design of code. I also have a goal this year, a hobby goal actually, to start learning about Game Development.
 
-All my personal projects are here on the github, so feel free to look around :).
-
 ---
 
 **Last post on my Medium (portuguese only):**
 
 [Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
 
+---
 
+**Are you curious about my skills? Or do you want to see some cool stuff about software in general?**
+
+So, feel free to see all my projects here 👇👇👇
 
