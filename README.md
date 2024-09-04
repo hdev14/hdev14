@@ -12,9 +12,11 @@ Right now, I'm seeking to improve all my knowledge about software architecture a
 
 ---
 
-**Last post on my Medium (portuguese only):**
+**Last contents (portuguese only):**
 
 [Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
+
+[Techno Meet - Testes Automatizados](https://youtu.be/vhMBQucge8k?si=0KEdOS6sj3PQoUiF)
 
 ---
 
