@@ -12,7 +12,7 @@ Right now, I'm seeking to improve all my knowledge about software architecture a
 
 ---
 
-**Last contents (portuguese only):**
+**Shared contents (portuguese only):**
 
 [Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
 
