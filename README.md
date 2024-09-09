@@ -1,14 +1,14 @@
 **Hello, welcome to my profile!** 
 
-I'm a *full stack software engineer*. I do code since 2016 and I love make great software solutions. I'm a full stack, because I'm a generalist person, so I like to develop things, solve problems and learn everything I want.
+I'm a *full stack software engineer*. I've been conding since 2016 and I love creating great software solutions. I'm a full stack, because I'm a generalist person, so I enjoy developing things, solving problems and learning everything that interests me.
 
-For me programming is the most **creativity** and **logic** area, and because of that it's possible to make anything you want. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
+For me, programming is the most **creativity** and **logic** field, and because of that it's possible to build anything you imagine. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
 
-I really do all my projects with **TDD** (even for the professional ones). For some people it's hard to follow this methodology, but I think is the most correct approach when you are developing tests, of course in the end it's important to have a great coverage of tests anyway.
+I use **TDD** in all my projects, even for the professional ones. For some people it's hard to follow this methodology, but I think it's the most correct approach when you are developing tests. Of course, in the end, it's important to have a good test coverage regardless.
 
 My main programming language right now is *Typescript* (it's great to have a little bit of types in Javascript). But I really like the agnostic mindset of thinking that all these stuff are tools. I have programmed with PHP, C#, C, Java and Python and I'm willing to learn more. So for me, programming languages, frameworks, libs are the same, tooling!
 
-Right now, I'm seeking to improve all my knowledge about software architecture and design of code. I also have a goal this year, a hobby goal actually, to start learning about Game Development.
+Right now, I'm seeking to improve all my knowledge about software architecture and design of code.
 
 ---
 
