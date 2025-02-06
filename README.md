@@ -20,6 +20,10 @@ Right now, I'm seeking to improve all my knowledge about software architecture a
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hdev14?ext=activity)
+
+---
+
 **Are you curious about my skills? Or do you want to see some cool stuff about software in general?**
 
 So, feel free to see all my projects here 👇👇👇
