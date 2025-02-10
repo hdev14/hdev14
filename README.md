@@ -8,7 +8,7 @@ I use **TDD** in all my projects, even for the professional ones. For some peopl
 
 My main programming language right now is *Typescript* (it's great to have a little bit of types in Javascript). But I really like the agnostic mindset of thinking that all these stuff are tools. I have programmed with PHP, C#, C, Java and Python and I'm willing to learn more. So for me, programming languages, frameworks, libs are the same, tooling!
 
-Right now, I'm seeking to improve all my knowledge about Software Architecture, Design of Code, Data Structures and Algorithms.
+Right now, I'm seeking to improve all my knowledge about **Software Architecture**, **Design of Code**, **Data Structures** and **Algorithms**.
 
 ---
 
