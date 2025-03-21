@@ -12,7 +12,7 @@ Right now, I'm seeking to improve all my knowledge about **Software Architecture
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hdev14?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hdev14?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
 ---
 
