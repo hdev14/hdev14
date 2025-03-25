@@ -12,15 +12,17 @@ Right now, I'm seeking to improve all my knowledge about **Software Architecture
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hdev14?theme=dark&font=JetBrains%20Mono&ext=heatmap)
-
----
-
 **Shared contents (portuguese only):**
 
 [Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
 
 [Techno Meet - Testes Automatizados](https://youtu.be/vhMBQucge8k?si=0KEdOS6sj3PQoUiF)
+
+---
+
+**Daily programming workout**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hdev14?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
 ---
 
