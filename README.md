@@ -12,7 +12,7 @@ Right now, I'm seeking to improve all my knowledge about **Software Architecture
 
 ---
 
-**Shared contents (portuguese only):**
+**Shared contents (portuguese only):** 
 
 [Por que TDD é underrated?](https://hdev.medium.com/por-que-tdd-é-underrated-5e2bd5cef2a6)
 
@@ -20,7 +20,7 @@ Right now, I'm seeking to improve all my knowledge about **Software Architecture
 
 ---
 
-**Daily programming workout**
+**Daily programming workout** 💪
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hdev14?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
