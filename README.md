@@ -1,6 +1,6 @@
 **Hello, welcome to my profile!** 
 
-I'm a *full-stack software engineer*. I've been coding since 2016 and I love creating great software solutions. I'm a full stack, because I'm a generalist person, so I enjoy developing things, solving problems, and learning everything that interests me.
+I'm a *full-stack software engineer*. I've been coding since 2016 and I love creating great software solutions. I'm a full-stack, because I'm a generalist person, so I enjoy developing things, solving problems, and learning everything that interests me.
 
 For me, programming is the most **creativity** and **logic** field, and because of that it's possible to build anything you imagine. What I like the most in programming are topics about *Algorithms*, *Design of Code*, *Software Architecture* and *Tests*.
 
